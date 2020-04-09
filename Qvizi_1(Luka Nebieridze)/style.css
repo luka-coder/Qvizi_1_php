@@ -1,0 +1,21 @@
+.table1{
+    height: 600px;
+    width: 400px;
+    border: solid 5px black;
+}
+.table1 td{
+    border: solid 3px black;
+    background: red;
+}
+.table2{
+    height: 530px;
+    width: 300px;
+    background-color: red;
+    border: solid 5px black;
+    margin-top: -600px;
+    margin-left: 500px;
+}
+.table2 td{
+    background-color: red;
+    border: solid 3px black;
+}
